@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "NovelEditConsole",
+    "ready": "Bereit",
+    "autosaved": "Automatisch gespeichert",
+    "saved": "Gespeichert",
+    "loadedAutosave": "Auto-Save-Projekt geladen",
+    "restoredLast": "Letztes Projekt wiederhergestellt: {{name}}",
+    "fallbackAutosave": "Letztes Projekt unlesbar; aus Standardordner geladen: {{name}}",
+    "blankWorkspace": "Kein Projekt — Änderungen werden im Standardordner gespeichert",
+    "openFailed": "Konnte nicht öffnen: {{name}}",
+    "opened": "Geöffnet: {{name}}",
+    "savedAs": "Gespeichert als: {{name}}",
+    "deleted": "Gelöscht: {{name}}",
+    "open": "Öffnen",
+    "save": "Speichern",
+    "saveAs": "Speichern unter",
+    "language": "Sprache"
+  },
+  "tree": {
+    "addFolder": "+ Ordner",
+    "addFile": "+ Datei",
+    "addSubFolder": "Unterordner hinzufügen",
+    "addSubFile": "Unterdatei hinzufügen",
+    "rename": "Umbenennen",
+    "delete": "Löschen",
+    "expand": "Erweitern",
+    "collapse": "Einklappen",
+    "unnamed": "Ohne Titel",
+    "exportHtml": "HTML exportieren",
+    "exportPdf": "PDF exportieren",
+    "exportWord": "Word exportieren",
+    "exportSection": "Export",
+    "exportFolderHint": "(alle Unterkapitel)",
+    "namePromptFolder": "Ordnername",
+    "namePromptFile": "Kapitelname",
+    "namePromptPlaceholder": "Name eingeben",
+    "dragFileHint": "Frei zwischen Ordnern verschieben",
+    "dragFolderHint": "Nur gleiche Ebene oder nach oben (nicht in tiefere Ordner)"
+  },
+  "export": {
+    "done": "Export abgeschlossen",
+    "failed": "Export fehlgeschlagen",
+    "empty": "Keine Kapitel zum Exportieren"
+  },
+  "chapterMeta": {
+    "aria": "Kapitelinfo",
+    "created": "Erstellt",
+    "updated": "Zuletzt bearbeitet",
+    "editTime": "Bearbeitungszeit",
+    "wordCount": "{{count}} Zeichen"
+  },
+  "node": {
+    "default": "default"
+  },
+  "editor": {
+    "emptyHint": "Wählen Sie links eine Datei zum Bearbeiten",
+    "placeholder": "Hier schreiben…",
+    "insertImage": "Bild einfügen",
+    "bold": "Fett",
+    "italic": "Kursiv",
+    "underline": "Unterstrichen",
+    "fontFamily": "Schrift",
+    "fontSize": "Größe",
+    "fontDefault": "Standard",
+    "textColor": "Textfarbe {{color}}",
+    "imageFilter": "Bilder"
+  },
+  "dialog": {
+    "projectFilter": "Romanprojekt",
+    "ok": "OK",
+    "cancel": "Abbrechen"
+  },
+  "lang": {
+    "zhTW": "繁體中文",
+    "zhCN": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ptBR": "Português (Brasil)"
+  }
+}

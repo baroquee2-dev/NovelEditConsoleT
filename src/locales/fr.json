@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "NovelEditConsole",
+    "ready": "Prêt",
+    "autosaved": "Enregistrement automatique",
+    "saved": "Enregistré",
+    "loadedAutosave": "Projet auto-enregistré chargé",
+    "restoredLast": "Dernier projet restauré : {{name}}",
+    "fallbackAutosave": "Dernier projet illisible ; chargé depuis le dossier par défaut : {{name}}",
+    "blankWorkspace": "Aucun projet — les modifications seront enregistrées dans le dossier par défaut",
+    "openFailed": "Impossible d'ouvrir : {{name}}",
+    "opened": "Ouvert : {{name}}",
+    "savedAs": "Enregistré sous : {{name}}",
+    "deleted": "Supprimé : {{name}}",
+    "open": "Ouvrir",
+    "save": "Enregistrer",
+    "saveAs": "Enregistrer sous",
+    "language": "Langue"
+  },
+  "tree": {
+    "addFolder": "+ Dossier",
+    "addFile": "+ Fichier",
+    "addSubFolder": "Nouveau sous-dossier",
+    "addSubFile": "Nouveau sous-fichier",
+    "rename": "Renommer",
+    "delete": "Supprimer",
+    "expand": "Développer",
+    "collapse": "Réduire",
+    "unnamed": "Sans titre",
+    "exportHtml": "Exporter HTML",
+    "exportPdf": "Exporter PDF",
+    "exportWord": "Exporter Word",
+    "exportSection": "Exporter",
+    "exportFolderHint": "(tous les chapitres enfants)",
+    "namePromptFolder": "Nom du dossier",
+    "namePromptFile": "Nom du chapitre",
+    "namePromptPlaceholder": "Saisir un nom",
+    "dragFileHint": "Déplacer librement entre les dossiers",
+    "dragFolderHint": "Même niveau ou niveau supérieur uniquement (pas plus profond)"
+  },
+  "export": {
+    "done": "Exportation terminée",
+    "failed": "Échec de l'exportation",
+    "empty": "Aucun chapitre à exporter"
+  },
+  "chapterMeta": {
+    "aria": "Infos du chapitre",
+    "created": "Créé",
+    "updated": "Dernière modification",
+    "editTime": "Temps d'édition",
+    "wordCount": "{{count}} caractères"
+  },
+  "node": {
+    "default": "default"
+  },
+  "editor": {
+    "emptyHint": "Sélectionnez un fichier à gauche pour commencer",
+    "placeholder": "Écrivez ici…",
+    "insertImage": "Insérer une image",
+    "bold": "Gras",
+    "italic": "Italique",
+    "underline": "Souligné",
+    "fontFamily": "Police",
+    "fontSize": "Taille",
+    "fontDefault": "Par défaut",
+    "textColor": "Couleur du texte {{color}}",
+    "imageFilter": "Images"
+  },
+  "dialog": {
+    "projectFilter": "Projet roman",
+    "ok": "OK",
+    "cancel": "Annuler"
+  },
+  "lang": {
+    "zhTW": "繁體中文",
+    "zhCN": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ptBR": "Português (Brasil)"
+  }
+}

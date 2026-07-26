@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "NovelEditConsole",
+    "ready": "Listo",
+    "autosaved": "Guardado automático",
+    "saved": "Guardado",
+    "loadedAutosave": "Proyecto de autoguardado cargado",
+    "restoredLast": "Proyecto anterior restaurado: {{name}}",
+    "fallbackAutosave": "No se pudo leer el anterior; cargado desde carpeta predeterminada: {{name}}",
+    "blankWorkspace": "Sin proyecto — al editar se guarda en la carpeta predeterminada",
+    "openFailed": "No se pudo abrir: {{name}}",
+    "opened": "Abierto: {{name}}",
+    "savedAs": "Guardado como: {{name}}",
+    "deleted": "Eliminado: {{name}}",
+    "open": "Abrir",
+    "save": "Guardar",
+    "saveAs": "Guardar como",
+    "language": "Idioma"
+  },
+  "tree": {
+    "addFolder": "+ Carpeta",
+    "addFile": "+ Archivo",
+    "addSubFolder": "Nueva subcarpeta",
+    "addSubFile": "Nuevo subarchivo",
+    "rename": "Renombrar",
+    "delete": "Eliminar",
+    "expand": "Expandir",
+    "collapse": "Contraer",
+    "unnamed": "Sin título",
+    "exportHtml": "Exportar HTML",
+    "exportPdf": "Exportar PDF",
+    "exportWord": "Exportar Word",
+    "exportSection": "Exportar",
+    "exportFolderHint": "(todos los capítulos hijos)",
+    "namePromptFolder": "Nombre de carpeta",
+    "namePromptFile": "Nombre del capítulo",
+    "namePromptPlaceholder": "Introduce un nombre",
+    "dragFileHint": "Arrastra libremente entre carpetas",
+    "dragFolderHint": "Solo mismo nivel o subir (no a carpetas más profundas)"
+  },
+  "export": {
+    "done": "Exportación completada",
+    "failed": "Error al exportar",
+    "empty": "No hay capítulos para exportar"
+  },
+  "chapterMeta": {
+    "aria": "Información del capítulo",
+    "created": "Creado",
+    "updated": "Última edición",
+    "editTime": "Tiempo de edición",
+    "wordCount": "{{count}} caracteres"
+  },
+  "node": {
+    "default": "default"
+  },
+  "editor": {
+    "emptyHint": "Selecciona un archivo a la izquierda para empezar a editar",
+    "placeholder": "Escribe aquí…",
+    "insertImage": "Insertar imagen",
+    "bold": "Negrita",
+    "italic": "Cursiva",
+    "underline": "Subrayado",
+    "fontFamily": "Fuente",
+    "fontSize": "Tamaño",
+    "fontDefault": "Predeterminado",
+    "textColor": "Color del texto {{color}}",
+    "imageFilter": "Imágenes"
+  },
+  "dialog": {
+    "projectFilter": "Proyecto de novela",
+    "ok": "Aceptar",
+    "cancel": "Cancelar"
+  },
+  "lang": {
+    "zhTW": "繁體中文",
+    "zhCN": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ptBR": "Português (Brasil)"
+  }
+}

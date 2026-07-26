@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "NovelEditConsole",
+    "ready": "Pronto",
+    "autosaved": "Salvo automaticamente",
+    "saved": "Salvo",
+    "loadedAutosave": "Projeto de salvamento automático carregado",
+    "restoredLast": "Último projeto restaurado: {{name}}",
+    "fallbackAutosave": "Último projeto ilegível; carregado da pasta padrão: {{name}}",
+    "blankWorkspace": "Sem projeto — edições serão salvas na pasta padrão",
+    "openFailed": "Não foi possível abrir: {{name}}",
+    "opened": "Aberto: {{name}}",
+    "savedAs": "Salvo como: {{name}}",
+    "deleted": "Excluído: {{name}}",
+    "open": "Abrir",
+    "save": "Salvar",
+    "saveAs": "Salvar como",
+    "language": "Idioma"
+  },
+  "tree": {
+    "addFolder": "+ Pasta",
+    "addFile": "+ Arquivo",
+    "addSubFolder": "Nova subpasta",
+    "addSubFile": "Novo subarquivo",
+    "rename": "Renomear",
+    "delete": "Excluir",
+    "expand": "Expandir",
+    "collapse": "Recolher",
+    "unnamed": "Sem título",
+    "exportHtml": "Exportar HTML",
+    "exportPdf": "Exportar PDF",
+    "exportWord": "Exportar Word",
+    "exportSection": "Exportar",
+    "exportFolderHint": "(todos os capítulos filhos)",
+    "namePromptFolder": "Nome da pasta",
+    "namePromptFile": "Nome do capítulo",
+    "namePromptPlaceholder": "Digite um nome",
+    "dragFileHint": "Arraste livremente entre pastas",
+    "dragFolderHint": "Reordene no mesmo nível ou mova para cima (não para pastas mais profundas)"
+  },
+  "export": {
+    "done": "Exportação concluída",
+    "failed": "Falha na exportação",
+    "empty": "Nenhum capítulo para exportar"
+  },
+  "chapterMeta": {
+    "aria": "Informações do capítulo",
+    "created": "Criado",
+    "updated": "Última edição",
+    "editTime": "Tempo de edição",
+    "wordCount": "{{count}} caracteres"
+  },
+  "node": {
+    "default": "default"
+  },
+  "editor": {
+    "emptyHint": "Selecione um arquivo à esquerda para começar a editar",
+    "placeholder": "Escreva aqui…",
+    "insertImage": "Inserir imagem",
+    "bold": "Negrito",
+    "italic": "Itálico",
+    "underline": "Sublinhado",
+    "fontFamily": "Fonte",
+    "fontSize": "Tamanho",
+    "fontDefault": "Padrão",
+    "textColor": "Cor do texto {{color}}",
+    "imageFilter": "Imagens"
+  },
+  "dialog": {
+    "projectFilter": "Projeto de romance",
+    "ok": "OK",
+    "cancel": "Cancelar"
+  },
+  "lang": {
+    "zhTW": "繁體中文",
+    "zhCN": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ptBR": "Português (Brasil)"
+  }
+}

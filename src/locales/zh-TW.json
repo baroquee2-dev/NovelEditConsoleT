@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "NovelEditConsole",
+    "ready": "就緒",
+    "autosaved": "已自動儲存",
+    "saved": "已儲存",
+    "loadedAutosave": "已載入自動儲存專案",
+    "restoredLast": "已還原上次專案：{{name}}",
+    "fallbackAutosave": "上次專案無法讀取，已載入預設目錄：{{name}}",
+    "blankWorkspace": "尚無專案（編輯後將存到程式預設目錄）",
+    "openFailed": "無法開啟：{{name}}",
+    "opened": "已開啟：{{name}}",
+    "savedAs": "已另存：{{name}}",
+    "deleted": "已刪除：{{name}}",
+    "open": "開啟",
+    "save": "儲存",
+    "saveAs": "另存",
+    "language": "語言"
+  },
+  "tree": {
+    "addFolder": "＋資料夾",
+    "addFile": "＋檔案",
+    "addSubFolder": "新增子資料夾",
+    "addSubFile": "新增子檔案",
+    "rename": "重新命名",
+    "delete": "刪除",
+    "expand": "展開",
+    "collapse": "收合",
+    "unnamed": "未命名",
+    "exportHtml": "匯出 HTML",
+    "exportPdf": "匯出 PDF",
+    "exportWord": "匯出 Word",
+    "exportSection": "匯出",
+    "exportFolderHint": "（含所有子章節）",
+    "namePromptFolder": "新資料夾名稱",
+    "namePromptFile": "新章節名稱",
+    "namePromptPlaceholder": "輸入名稱",
+    "dragFileHint": "可拖曳至任意資料夾層級",
+    "dragFolderHint": "僅可同層排序或搬到上層（不可拖入更深層資料夾）"
+  },
+  "export": {
+    "done": "匯出完成",
+    "failed": "匯出失敗",
+    "empty": "沒有可匯出的章節"
+  },
+  "chapterMeta": {
+    "aria": "章節資訊",
+    "created": "建立",
+    "updated": "上次編輯",
+    "editTime": "編輯時間",
+    "wordCount": "{{count}} 字"
+  },
+  "node": {
+    "default": "default"
+  },
+  "editor": {
+    "emptyHint": "請選擇左側的檔案節點以開始編輯",
+    "placeholder": "在此撰寫內容…",
+    "insertImage": "插入圖片",
+    "bold": "粗體",
+    "italic": "斜體",
+    "underline": "底線",
+    "fontFamily": "字體",
+    "fontSize": "字級",
+    "fontDefault": "預設",
+    "textColor": "文字色 {{color}}",
+    "imageFilter": "圖片"
+  },
+  "dialog": {
+    "projectFilter": "小說專案",
+    "ok": "確定",
+    "cancel": "取消"
+  },
+  "lang": {
+    "zhTW": "繁體中文",
+    "zhCN": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ptBR": "Português (Brasil)"
+  }
+}

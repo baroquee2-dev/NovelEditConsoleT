@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "NovelEditConsole",
+    "ready": "就绪",
+    "autosaved": "已自动保存",
+    "saved": "已保存",
+    "loadedAutosave": "已加载自动保存项目",
+    "restoredLast": "已还原上次项目：{{name}}",
+    "fallbackAutosave": "上次项目无法读取，已加载默认目录：{{name}}",
+    "blankWorkspace": "尚无项目（编辑后将存到程序默认目录）",
+    "openFailed": "无法打开：{{name}}",
+    "opened": "已打开：{{name}}",
+    "savedAs": "另存为：{{name}}",
+    "deleted": "已删除：{{name}}",
+    "open": "打开",
+    "save": "保存",
+    "saveAs": "另存为",
+    "language": "语言"
+  },
+  "tree": {
+    "addFolder": "＋文件夹",
+    "addFile": "＋文件",
+    "addSubFolder": "新建子文件夹",
+    "addSubFile": "新建子文件",
+    "rename": "重命名",
+    "delete": "删除",
+    "expand": "展开",
+    "collapse": "收起",
+    "unnamed": "未命名",
+    "exportHtml": "导出 HTML",
+    "exportPdf": "导出 PDF",
+    "exportWord": "导出 Word",
+    "exportSection": "导出",
+    "exportFolderHint": "（含所有子章节）",
+    "namePromptFolder": "新文件夹名称",
+    "namePromptFile": "新章节名称",
+    "namePromptPlaceholder": "输入名称",
+    "dragFileHint": "可拖拽至任意文件夹层级",
+    "dragFolderHint": "仅可同层排序或移到上层（不可拖入更深层级）"
+  },
+  "export": {
+    "done": "导出完成",
+    "failed": "导出失败",
+    "empty": "没有可导出的章节"
+  },
+  "chapterMeta": {
+    "aria": "章节信息",
+    "created": "创建",
+    "updated": "上次编辑",
+    "editTime": "编辑时间",
+    "wordCount": "{{count}} 字"
+  },
+  "node": {
+    "default": "default"
+  },
+  "editor": {
+    "emptyHint": "请选择左侧的文件节点以开始编辑",
+    "placeholder": "在此撰写内容…",
+    "insertImage": "插入图片",
+    "bold": "粗体",
+    "italic": "斜体",
+    "underline": "下划线",
+    "fontFamily": "字体",
+    "fontSize": "字号",
+    "fontDefault": "默认",
+    "textColor": "文字色 {{color}}",
+    "imageFilter": "图片"
+  },
+  "dialog": {
+    "projectFilter": "小说项目",
+    "ok": "确定",
+    "cancel": "取消"
+  },
+  "lang": {
+    "zhTW": "繁體中文",
+    "zhCN": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ptBR": "Português (Brasil)"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "NovelEditConsole",
+    "ready": "준비됨",
+    "autosaved": "자동 저장됨",
+    "saved": "저장됨",
+    "loadedAutosave": "자동 저장 프로젝트를 불러옴",
+    "restoredLast": "마지막 프로젝트 복원: {{name}}",
+    "fallbackAutosave": "이전 프로젝트를 읽을 수 없어 기본 폴더에서 불러옴: {{name}}",
+    "blankWorkspace": "프로젝트 없음 — 편집 시 기본 폴더에 저장",
+    "openFailed": "열 수 없음: {{name}}",
+    "opened": "열림: {{name}}",
+    "savedAs": "다른 이름으로 저장: {{name}}",
+    "deleted": "삭제됨: {{name}}",
+    "open": "열기",
+    "save": "저장",
+    "saveAs": "다른 이름으로 저장",
+    "language": "언어"
+  },
+  "tree": {
+    "addFolder": "+ 폴더",
+    "addFile": "+ 파일",
+    "addSubFolder": "하위 폴더 추가",
+    "addSubFile": "하위 파일 추가",
+    "rename": "이름 바꾸기",
+    "delete": "삭제",
+    "expand": "펼치기",
+    "collapse": "접기",
+    "unnamed": "제목 없음",
+    "exportHtml": "HTML 내보내기",
+    "exportPdf": "PDF 내보내기",
+    "exportWord": "Word 내보내기",
+    "exportSection": "내보내기",
+    "exportFolderHint": "(모든 하위 챕터 포함)",
+    "namePromptFolder": "새 폴더 이름",
+    "namePromptFile": "새 챕터 이름",
+    "namePromptPlaceholder": "이름 입력",
+    "dragFileHint": "폴더 계층에 자유롭게 드래그하여 이동",
+    "dragFolderHint": "같은 계층 정렬 또는 상위 이동만 가능 (더 깊은 폴더로는 불가)"
+  },
+  "export": {
+    "done": "내보내기 완료",
+    "failed": "내보내기 실패",
+    "empty": "내보낼 챕터가 없습니다"
+  },
+  "chapterMeta": {
+    "aria": "챕터 정보",
+    "created": "생성",
+    "updated": "마지막 편집",
+    "editTime": "편집 시간",
+    "wordCount": "{{count}}자"
+  },
+  "node": {
+    "default": "default"
+  },
+  "editor": {
+    "emptyHint": "왼쪽에서 파일을 선택하여 편집을 시작하세요",
+    "placeholder": "여기에 작성…",
+    "insertImage": "이미지 삽입",
+    "bold": "굵게",
+    "italic": "기울임",
+    "underline": "밑줄",
+    "fontFamily": "글꼴",
+    "fontSize": "크기",
+    "fontDefault": "기본",
+    "textColor": "글자색 {{color}}",
+    "imageFilter": "이미지"
+  },
+  "dialog": {
+    "projectFilter": "소설 프로젝트",
+    "ok": "확인",
+    "cancel": "취소"
+  },
+  "lang": {
+    "zhTW": "繁體中文",
+    "zhCN": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ptBR": "Português (Brasil)"
+  }
+}

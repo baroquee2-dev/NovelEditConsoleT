@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "NovelEditConsole",
+    "ready": "Ready",
+    "autosaved": "Autosaved",
+    "saved": "Saved",
+    "loadedAutosave": "Loaded autosave project",
+    "restoredLast": "Restored last project: {{name}}",
+    "fallbackAutosave": "Last project unreadable; loaded from default folder: {{name}}",
+    "blankWorkspace": "No project yet — edits will save to the default folder",
+    "openFailed": "Could not open: {{name}}",
+    "opened": "Opened: {{name}}",
+    "savedAs": "Saved as: {{name}}",
+    "deleted": "Deleted: {{name}}",
+    "open": "Open",
+    "save": "Save",
+    "saveAs": "Save As",
+    "language": "Language"
+  },
+  "tree": {
+    "addFolder": "+ Folder",
+    "addFile": "+ File",
+    "addSubFolder": "New subfolder",
+    "addSubFile": "New subfile",
+    "rename": "Rename",
+    "delete": "Delete",
+    "expand": "Expand",
+    "collapse": "Collapse",
+    "unnamed": "Untitled",
+    "exportHtml": "Export HTML",
+    "exportPdf": "Export PDF",
+    "exportWord": "Export Word",
+    "exportSection": "Export",
+    "exportFolderHint": "(all child chapters)",
+    "namePromptFolder": "New folder name",
+    "namePromptFile": "New chapter name",
+    "namePromptPlaceholder": "Enter a name",
+    "dragFileHint": "Drag to move freely between folders",
+    "dragFolderHint": "Drag to reorder at the same level or move upward (not into a deeper folder)"
+  },
+  "export": {
+    "done": "Export completed",
+    "failed": "Export failed",
+    "empty": "No chapters to export"
+  },
+  "chapterMeta": {
+    "aria": "Chapter info",
+    "created": "Created",
+    "updated": "Last edited",
+    "editTime": "Edit time",
+    "wordCount": "{{count}} chars"
+  },
+  "node": {
+    "default": "default"
+  },
+  "editor": {
+    "emptyHint": "Select a file node on the left to start editing",
+    "placeholder": "Write here…",
+    "insertImage": "Insert image",
+    "bold": "Bold",
+    "italic": "Italic",
+    "underline": "Underline",
+    "fontFamily": "Font",
+    "fontSize": "Size",
+    "fontDefault": "Default",
+    "textColor": "Text color {{color}}",
+    "imageFilter": "Images"
+  },
+  "dialog": {
+    "projectFilter": "Novel project",
+    "ok": "OK",
+    "cancel": "Cancel"
+  },
+  "lang": {
+    "zhTW": "繁體中文",
+    "zhCN": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ptBR": "Português (Brasil)"
+  }
+}

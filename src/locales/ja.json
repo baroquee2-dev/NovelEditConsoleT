@@ -1,0 +1,85 @@
+{
+  "app": {
+    "title": "NovelEditConsole",
+    "ready": "準備完了",
+    "autosaved": "自動保存しました",
+    "saved": "保存しました",
+    "loadedAutosave": "自動保存プロジェクトを読み込みました",
+    "restoredLast": "前回のプロジェクトを復元：{{name}}",
+    "fallbackAutosave": "前回のファイルを読めないため、既定フォルダから読み込み：{{name}}",
+    "blankWorkspace": "プロジェクトなし（編集すると既定フォルダに保存）",
+    "openFailed": "開けません：{{name}}",
+    "opened": "開きました：{{name}}",
+    "savedAs": "名前を付けて保存：{{name}}",
+    "deleted": "削除しました：{{name}}",
+    "open": "開く",
+    "save": "保存",
+    "saveAs": "名前を付けて保存",
+    "language": "言語"
+  },
+  "tree": {
+    "addFolder": "＋フォルダ",
+    "addFile": "＋ファイル",
+    "addSubFolder": "子フォルダを追加",
+    "addSubFile": "子ファイルを追加",
+    "rename": "名前の変更",
+    "delete": "削除",
+    "expand": "展開",
+    "collapse": "折りたたむ",
+    "unnamed": "無題",
+    "exportHtml": "HTML をエクスポート",
+    "exportPdf": "PDF をエクスポート",
+    "exportWord": "Word をエクスポート",
+    "exportSection": "エクスポート",
+    "exportFolderHint": "（子チャプターすべて）",
+    "namePromptFolder": "新しいフォルダ名",
+    "namePromptFile": "新しいチャプター名",
+    "namePromptPlaceholder": "名前を入力",
+    "dragFileHint": "フォルダ階層を自由にドラッグ移動できます",
+    "dragFolderHint": "同階層の並べ替えまたは上位への移動のみ（より深い階層へは不可）"
+  },
+  "export": {
+    "done": "エクスポート完了",
+    "failed": "エクスポート失敗",
+    "empty": "エクスポートするチャプターがありません"
+  },
+  "chapterMeta": {
+    "aria": "チャプター情報",
+    "created": "作成",
+    "updated": "最終編集",
+    "editTime": "編集時間",
+    "wordCount": "{{count}} 文字"
+  },
+  "node": {
+    "default": "default"
+  },
+  "editor": {
+    "emptyHint": "左のファイルを選んで編集を開始してください",
+    "placeholder": "ここに書く…",
+    "insertImage": "画像を挿入",
+    "bold": "太字",
+    "italic": "斜体",
+    "underline": "下線",
+    "fontFamily": "フォント",
+    "fontSize": "サイズ",
+    "fontDefault": "既定",
+    "textColor": "文字色 {{color}}",
+    "imageFilter": "画像"
+  },
+  "dialog": {
+    "projectFilter": "小説プロジェクト",
+    "ok": "OK",
+    "cancel": "キャンセル"
+  },
+  "lang": {
+    "zhTW": "繁體中文",
+    "zhCN": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ptBR": "Português (Brasil)"
+  }
+}
